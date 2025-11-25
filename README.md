@@ -73,24 +73,11 @@ tafsir-project/
 
 ### Prérequis
 
-- Python 3.7+
+- PHP / JS
 - Connexion Internet
 
 ### Téléchargement
 
-```bash
-# Toutes les sourates (1-114) - Ibn Kathir uniquement
-python download_tafsirs.py
-
-# Sourates 1 à 10
-python download_tafsirs.py 1 10
-
-# Sourates 78 à 114 (Juz Amma) avec Tabari et Qurtubi
-python download_tafsirs.py 78 114 --tabari --qurtubi
-
-# Une seule sourate
-python download_tafsirs.py 36 36
-```
 
 ### Sortie
 
